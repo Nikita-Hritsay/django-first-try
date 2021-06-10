@@ -1,1 +1,1 @@
-# django-first-try
+# django-APP
